@@ -20,11 +20,11 @@ Recommended Books:
 **Phase 2: Arrays and Strings (1-3 months)**
 
 1. **Array Manipulations**
-   _ Rotating, reversing, finding max/min
-   _ Array sorting and searching algorithms
+   * Rotating, reversing, finding max/min
+   * Array sorting and searching algorithms
 2. **String Algorithms**
-   _ Substring matching (KMP, Rabin-Karp)
-   _ String compression (Run-Length Encoding)
+   * Substring matching (KMP, Rabin-Karp)
+   * String compression (Run-Length Encoding)
 3. **Array-based Data Structures** \* Hash Tables (Basic operations: insert, delete, search)
 4. **Practice Problems** \* LeetCode (10-20 problems per week for 1-2 months)
 
@@ -36,11 +36,11 @@ Recommended Books:
 **Phase 3: Linked Lists and Trees (1-3 months)**
 
 1. **Linked List Operations**
-   _ Insertion, Deletion, Traversal
-   _ Singly linked lists vs Doubly linked lists
+   * Insertion, Deletion, Traversal
+   * Singly linked lists vs Doubly linked lists
 2. **Tree Data Structures**
-   _ Basic tree operations (insert, delete, traverse)
-   _ Binary Search Trees (BSTs)
+   * Basic tree operations (insert, delete, traverse)
+   * Binary Search Trees (BSTs)
 3. **Balanced Trees** \* AVL trees and Red-Black trees
 4. **Practice Problems** \* LeetCode (10-20 problems per week for 1-2 months)
 
@@ -52,11 +52,11 @@ Recommended Books:
 **Phase 4: Graphs and Heaps (1-3 months)**
 
 1. **Graph Fundamentals**
-   _ Basic graph operations (insert, delete, traverse)
-   _ Graph algorithms (DFS, BFS, shortest path)
+   * Basic graph operations (insert, delete, traverse)
+   * Graph algorithms (DFS, BFS, shortest path)
 2. **Heaps and Priority Queues**
-   _ Binary heaps (min-heaps, max-heaps)
-   _ Priority queues
+   * Binary heaps (min-heaps, max-heaps)
+   * Priority queues
 3. **Practice Problems** \* LeetCode (10-20 problems per week for 1-2 months)
 
 Recommended Books:
@@ -67,14 +67,14 @@ Recommended Books:
 **Phase 5: Advanced Topics (3-6 months)**
 
 1. **Dynamic Programming**
-   _ Introduction to dynamic programming concepts
-   _ Solving problems using dynamic programming
+   * Introduction to dynamic programming concepts
+   * Solving problems using dynamic programming
 2. **Greedy Algorithms**
-   _ Introduction to greedy algorithms concepts
-   _ Solving problems using greedy algorithms
+   * Introduction to greedy algorithms concepts
+   * Solving problems using greedy algorithms
 3. **Divide and Conquer**
-   _ Introduction to divide and conquer algorithms concepts
-   _ Solving problems using divide and conquer
+   * Introduction to divide and conquer algorithms concepts
+   * Solving problems using divide and conquer
 4. **Practice Problems** \* LeetCode (10-20 problems per week for 2-3 months)
 
 Recommended Books:
