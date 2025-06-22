@@ -1,15 +1,15 @@
 **Phase 1: Fundamentals (1-3 months)**
 
 1. **Programming Basics**
-   _ Variables, Data Types, Operators
-   _ Control Structures (if/else, switch, loops) \* Functions (defining, calling, returning values)
+   * Variables, Data Types, Operators
+   * Control Structures (if/else, switch, loops) \* Functions (defining, calling, returning values)
 2. **Data Structures**
-   _ Arrays and Vectors
-   _ Linked Lists (singly linked, doubly linked)
-   _ Stacks and Queues
+   * Arrays and Vectors
+   * Linked Lists (singly linked, doubly linked)
+   * Stacks and Queues
 3. **Algorithms**
-   _ Sorting Algorithms (bubble sort, selection sort, insertion sort, merge sort, quicksort)
-   _ Searching Algorithms (linear search, binary search)
+   * Sorting Algorithms (bubble sort, selection sort, insertion sort, merge sort, quicksort)
+   * Searching Algorithms (linear search, binary search)
 4. **Practice Problems** \* LeetCode (10-20 problems per week for 1-2 months)
 
 Recommended Books:
